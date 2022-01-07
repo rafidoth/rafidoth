@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @rafidoth
 - 👀 I’m interested in technology
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on the journey of python learning
-- 📫 How to reach me https://twitter.com/RafiulHassanRaf
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me 
 
 <!---
 rafidoth/rafidoth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
