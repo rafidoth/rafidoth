@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on [raphy.blog](https://github.com/rafidoth/raphy.blog)
 
+- Work ShowCase [WorkShowCase](https://www.notion.so/Work-Showcase-d0a64378007143e9848f6348b1779338)
+
 - 🌱 I’m currently learning **React JS**
 
 - 💬 Ask me about **React JS, Design, HTML, CSS, Competitive Programming**
