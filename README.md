@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Rafi</h1>
-<h3 align="center">Enthusiast about Front End</h3>
 
 - 🔭 I’m currently working on [raphy.blog](https://github.com/rafidoth/raphy.blog)
 
