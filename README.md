@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello there! I'm [Your Name], a passionate Computer Science undergraduate student with a strong interest in web application development. I thrive on challenges and love to explore new technologies and frameworks to create innovative and user-friendly web experiences. 
+Hello there! I'm Rafi, a passionate Computer Science undergraduate student with a strong interest in web application development. I thrive on challenges and love to explore new technologies and frameworks to create innovative and user-friendly web experiences. 
 
 
 ## 🌐 Socials:
