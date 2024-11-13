@@ -1,6 +1,3 @@
-Hello there! I'm Rafi, a passionate Computer Science undergraduate student with a strong interest in application development. 
-
-I have a passion for arts and design, but creating them doesn't come naturally to me. Similarly, I find great beauty in mathematics, even though I'm not a proficient mathematician. Programming is my only way to see both xD.
 
 
 ## 🌐 Socials:
