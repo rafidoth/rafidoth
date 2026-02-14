@@ -7,8 +7,7 @@
 
 Hi, I'm S Rafiul Hasan, I'm a Backend-Focused Full-Stack Developer, I find beauty in building systems that just works. 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rafidoth) [![Blog](https://img.shields.io/badge/Blog-000000.svg?logo=notion&logoColor=white)](https://rafiulhasan.notion.site/) ![Profile Views](https://visitcount.itsvg.in/api?id=rafidoth&icon=0&color=0)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rafidoth) [![Blog](https://img.shields.io/badge/Blog-000000.svg?logo=notion&logoColor=white)](https://rafiulhasan.notion.site/) 
 ## About Me
 
 - 🔭 Currently working on [cholochitro](https://github.com/rafidoth/cholochitro) - a video streaming platform
