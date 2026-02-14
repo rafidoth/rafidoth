@@ -18,17 +18,7 @@ Hi, I'm S Rafiul Hasan, I'm a Backend-Focused Full-Stack Developer, I find beaut
 ## Tech Stack
 
 **Languages:** Go, TypeScript, JavaScript, Bash
-
 **Backend:** Node.js, PostgreSQL, MongoDB, Redis, RabbitMQ, GraphQL
-
 **Frontend:** React, Next.js, React Native
-
 **Cloud & DevOps:** AWS, Docker, Nginx, Firebase, Heroku
-
 **Tools:** Git, Linux, Figma
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafidoth&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafidoth&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
