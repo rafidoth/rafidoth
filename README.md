@@ -10,7 +10,7 @@ Hi, I'm S Rafiul Hasan, I'm a Backend-Focused Full-Stack Developer, I find beaut
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rafidoth) [![Blog](https://img.shields.io/badge/Blog-000000.svg?logo=notion&logoColor=white)](https://rafiulhasan.notion.site/) 
 ## About Me
 
-- 🔭 Currently working on [cholochitro](https://github.com/rafidoth/cholochitro) - a movie ticket booking platform that can handle 20k Concurrent Request
+- 🔭 Currently working on [cholochitro](https://github.com/rafidoth/cholochitro) - a movie ticket booking platform that can handle race condition.
 - 🌱 Learning Distributed Systems & Microservices
 - 📝 Writing technical articles on [my blog](https://rafiulhasan.notion.site/)
 - 💬 Ask me about Go, Node.js, TypeScript, Next.js, React, AWS
