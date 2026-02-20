@@ -7,7 +7,7 @@
 
 Hi, I'm S Rafiul Hasan, I'm a Backend-Focused Full-Stack Developer, I find beauty in building systems that just works. 
 
-[Visit my portfolio](www.rafiulhasan.tech) 
+[Visit my portfolio](https://www.rafiulhasan.tech) 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rafidoth) [![Blog](https://img.shields.io/badge/Blog-000000.svg?logo=notion&logoColor=white)](https://rafiulhasan.notion.site/) 
 ## About Me
